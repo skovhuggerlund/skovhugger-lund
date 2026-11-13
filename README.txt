@@ -35,3 +35,5 @@ NOTES
 - The logo is a new circular design created for this package, not the original trademark file.
 - No claim is made that this site has been deployed, indexed, or approved by Google.
 - Verify privacy text, images, working links and details prior to deployment.
+
+ARTICLE 20 (2026-11-13): Added beskaering-traeer-kolding-efter-byggearbejde.html and updated blog.html. Upload all flat files to repository root.
