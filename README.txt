@@ -41,3 +41,7 @@ Artikel 34 (2026-11-13): Added beskaering-traeer-kolding-efter-byggearbejde.html
 Artikel 34: stubfraesning-kolding-kabler-roer-foer-arbejdet.html
 Artiklen er tilfoejet i Vidensbank (blog.html). De tidligere artikler er bevaret.
 Alle filer skal uploades direkte til repository root. ZIP har ingen undermapper.
+
+ARTICLE 48 UPDATE
+Ny artikel: traefaeldning-lys-vind-privatliv.html
+Tilfoejet som foerste artikelkort i blog.html. Tidligere artikler 06, 20 og 34 bevaret.
