@@ -45,3 +45,7 @@ Alle filer skal uploades direkte til repository root. ZIP har ingen undermapper.
 ARTICLE 48 UPDATE
 Ny artikel: traefaeldning-lys-vind-privatliv.html
 Tilfoejet som foerste artikelkort i blog.html. Tidligere artikler 06, 20 og 34 bevaret.
+
+ARTICLE 62 UPDATE
+New article: traefaeldning-pris-kolding-planlagt-eller-akut.html
+Added to first position of Learning Library; all older articles and pages retained.
