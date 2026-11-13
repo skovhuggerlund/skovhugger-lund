@@ -36,4 +36,8 @@ NOTES
 - No claim is made that this site has been deployed, indexed, or approved by Google.
 - Verify privacy text, images, working links and details prior to deployment.
 
-ARTICLE 20 (2026-11-13): Added beskaering-traeer-kolding-efter-byggearbejde.html and updated blog.html. Upload all flat files to repository root.
+Artikel 34 (2026-11-13): Added beskaering-traeer-kolding-efter-byggearbejde.html and updated blog.html. Upload all flat files to repository root.
+
+Artikel 34: stubfraesning-kolding-kabler-roer-foer-arbejdet.html
+Artiklen er tilfoejet i Vidensbank (blog.html). De tidligere artikler er bevaret.
+Alle filer skal uploades direkte til repository root. ZIP har ingen undermapper.
