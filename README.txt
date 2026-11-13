@@ -28,10 +28,10 @@ robots.txt    - generic crawler rules
 .nojekyll     - prevent unwanted Jekyll processing
 
 NOTES
-- Articles have intentionally NOT been created: approval checkpoint first.
-- Existing learning resources link to official Skovhugger Lund pages; they are NOT new articles.
+- Article 06 has been drafted and added to the Learning Library (awaiting deployment).
+- Existing learning resources still link to official Skovhugger Lund pages; article 06 is a new standalone HTML page.
 - The pages deliberately omit canonical URLs and sitemap.xml until the final GitHub Pages URL is known, avoiding incorrect SEO signals.
-- Add each approved article as a new flat HTML file and update blog.html links.
+- Future approved articles should be added as flat HTML files, with links inserted in blog.html.
 - The logo is a new circular design created for this package, not the original trademark file.
 - No claim is made that this site has been deployed, indexed, or approved by Google.
 - Verify privacy text, images, working links and details prior to deployment.
